@@ -1,4 +1,4 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib Homework - The Power of Plots :octocat: :computer:
 
 ## Background
 
@@ -49,3 +49,8 @@ Here are some final considerations:
 * You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
 * See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
+
+# Results and Graphs 
+
+<img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Summary%20Statistics.PNG">
+<img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Bar%20Chart.PNG">
