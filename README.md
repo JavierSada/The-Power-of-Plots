@@ -54,3 +54,10 @@ Here are some final considerations:
 
 <img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Summary%20Statistics.PNG">
 <img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Bar%20Chart.PNG">
+<img src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Gender%20Table%201.PNG">
+<img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Gender%201.PNG">
+<img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Gender%202.PNG">
+<img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Line.PNG">
+<img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Scatter.PNG">
+<img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Box.PNG">
+<img height="350" src="https://github.com/JavierSada/The-Power-of-Plots/blob/main/Images/Correlation.PNG">
